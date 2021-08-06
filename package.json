@@ -1,0 +1,22 @@
+{
+  "name": "testnpmv1",
+  "version": "1.0.0",
+  "description": "test for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tom-hu-design/Tom-hu.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "tom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tom-hu-design/Tom-hu/issues"
+  },
+  "homepage": "https://github.com/Tom-hu-design/Tom-hu#readme"
+}
